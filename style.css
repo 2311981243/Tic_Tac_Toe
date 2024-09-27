@@ -1,0 +1,38 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color:#000000 ;
+}
+td
+{
+    height:100px;
+    width:100px;
+}
+.marking
+{
+    font-size:70px;
+    margin-left:20px;
+    text-align: center;
+}
+#display
+{
+margin-bottom: 600px;
+font-size: 50px;
+}
+table
+{
+ border-color:#39FF14 ;   
+}
+h1
+{
+    color: #FFFFFF;
+}
+button
+{
+    color:#FFFFFF;
+    background-color: #000000;
+    margin-top: 15px;
+    box-shadow:2px 2px #39FF14;
+}
